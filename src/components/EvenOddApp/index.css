@@ -1,0 +1,26 @@
+/* Write your CSS here */
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-family: Roboto;
+  background-image: linear-gradient(to top, #ff6e7f, #bfe9ff);
+  color: #334155;
+}
+
+.heading {
+  color: #0f172a;
+  margin-bottom: 20px;
+}
+
+.inc-button {
+  background-color: #ffffff;
+  color: #1e293b;
+  border: 1px solid #1e293b;
+  border-radius: 8px;
+  width: 100px;
+  height: 30px;
+}
